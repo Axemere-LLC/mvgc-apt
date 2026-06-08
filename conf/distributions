@@ -1,0 +1,4 @@
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+SignWith: D4E941B2786EFF0788305EA7BDF564B5A99D7A17
