@@ -1,30 +1,30 @@
 Package: mvgc-console
-Version: 1.0.0
+Version: 1.0.4
 Architecture: arm64
 Maintainer: MVGC <ops@mvgc.io>
 Installed-Size: 8321
 Homepage: https://github.com/Axemere-LLC/mvgc
 Priority: optional
 Section: 
-Filename: pool/main/m/mvgc-console/mvgc-console_1.0.0_arm64.deb
-Size: 3533372
-SHA256: b9f3e7ab599088891bb9b8592c8ba020eb57a09c47402b1dc9d51d07eacab850
-SHA1: 02b61f9d9fada7cf48f2a6e41c742ae5a93caf35
-MD5sum: 2c2a0427de5552557002ecef8b956dbe
+Filename: pool/main/m/mvgc-console/mvgc-console_1.0.4_arm64.deb
+Size: 3533434
+SHA256: 268332e8e3d322366f55e1b8229c4b6856d2e264e02d0b7ae48d73b8e1cc2d46
+SHA1: 0c68f67a2d46abcd8e991cbf0bf8112df2b87b37
+MD5sum: 69e54c4392eabe4331f24c0011dbc3dc
 Description: MVGC Console web dashboard
 
 Package: mvgc-gateway
-Version: 1.0.0
+Version: 1.0.4
 Architecture: arm64
 Maintainer: MVGC <ops@mvgc.io>
 Installed-Size: 52541
 Homepage: https://github.com/Axemere-LLC/mvgc
 Priority: optional
 Section: 
-Filename: pool/main/m/mvgc-gateway/mvgc-gateway_1.0.0_arm64.deb
-Size: 16893096
-SHA256: dc6b6f9686561a3430e93a002f032a8fe98546c6fd125666995de3683a149684
-SHA1: 5d7ac3ba86fb0056f1f521e140731c3150f2ed4d
-MD5sum: 35677f620be172ee8b9927ad46be0e8c
+Filename: pool/main/m/mvgc-gateway/mvgc-gateway_1.0.4_arm64.deb
+Size: 16886630
+SHA256: 9c13751be32325cd3148c5fa9a65c24e21a0c2f68c993065c269cde95b7197a7
+SHA1: fc9c66522eacd9744a8f9ba8d840b425cd3c4b34
+MD5sum: c14ac5c2d2fa12416d5f580799a47e87
 Description: MVGC AI API enforcement gateway
 
