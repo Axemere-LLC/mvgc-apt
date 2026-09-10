@@ -41,10 +41,8 @@ An HTTP proxy between your applications and your AI providers: your provider key
 live in the gateway instead of your code, with real-time cost tracking, per-project
 spend limits, usage attribution, policy controls, and a verifiable audit ledger.
 
-Three ways to run it:
+Two ways to run it:
 
-- **Free Gateway** — self-hosted, run anywhere, no account or request limits.
-  → https://axemere.ai/docs/free-gateway
 - **Self-Hosted Gateway** — your infra, connected to the Axemere Control Plane and
   Cloud Console. → https://axemere.ai/docs/guides/it-setup
 - **Managed Gateway** — Axemere runs it in the cloud, no infra to operate.
